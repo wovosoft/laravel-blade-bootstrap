@@ -1,0 +1,1 @@
+<a {{$getAttributes()}}>{{$slot}}</a>

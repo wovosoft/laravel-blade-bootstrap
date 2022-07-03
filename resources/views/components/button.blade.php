@@ -1,0 +1,2 @@
+<{{$tag}} {{$getAttributes()}}>{{$slot}}</{{$tag}}>
+

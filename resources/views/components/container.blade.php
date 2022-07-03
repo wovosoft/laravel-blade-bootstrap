@@ -1,0 +1,2 @@
+<div {{$getAttributes()}}>{{$slot}}</div>
+
